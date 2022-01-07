@@ -1,6 +1,6 @@
 # Getting Started with Let's Chat
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is Live on : [Netlify](https://letschatwith.netlify.app/)
 
 ## Available Scripts
 
